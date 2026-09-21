@@ -1,5 +1,7 @@
 README file for September 21
+
 This repository contains the assignment for class 1 of CHL5233. 
+
 01-inclass.R contains the in class assignments where the yrbss package was used to 
 - Reorder "Grade" to inceasing order
 - Re-label all category labels to start with a capital letter
